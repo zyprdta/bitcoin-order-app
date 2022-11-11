@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "timestamp": 1668143619013,
+  "index": "/bitcoin-order-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/bitcoin-order-app/favicon.ico",
+        "/bitcoin-order-app/index.html",
+        "/bitcoin-order-app/main.ba550317c1e87e8c.js",
+        "/bitcoin-order-app/manifest.webmanifest",
+        "/bitcoin-order-app/polyfills.2d3f8bf28b00b833.js",
+        "/bitcoin-order-app/runtime.4451ca77b8feb09d.js",
+        "/bitcoin-order-app/styles.9d358ab047341362.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/bitcoin-order-app/assets/back2.jpg",
+        "/bitcoin-order-app/assets/back3.png",
+        "/bitcoin-order-app/assets/back4.jpg",
+        "/bitcoin-order-app/assets/back5.jpg",
+        "/bitcoin-order-app/assets/back6.jpg",
+        "/bitcoin-order-app/assets/background.jpg",
+        "/bitcoin-order-app/assets/icons/icon-128x128.png",
+        "/bitcoin-order-app/assets/icons/icon-144x144.png",
+        "/bitcoin-order-app/assets/icons/icon-152x152.png",
+        "/bitcoin-order-app/assets/icons/icon-192x192.png",
+        "/bitcoin-order-app/assets/icons/icon-384x384.png",
+        "/bitcoin-order-app/assets/icons/icon-512x512.png",
+        "/bitcoin-order-app/assets/icons/icon-72x72.png",
+        "/bitcoin-order-app/assets/icons/icon-96x96.png",
+        "/bitcoin-order-app/assets/img/BCH.svg",
+        "/bitcoin-order-app/assets/pixel.gif",
+        "/bitcoin-order-app/back6.fa641a3036560cae.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/bitcoin-order-app/assets/back2.jpg": "882251ab7b28aecf7e9b9473601715fd8e0b5ae9",
+    "/bitcoin-order-app/assets/back3.png": "5e0144d39db4ce2201f1f5ae0e02a11dca8b8030",
+    "/bitcoin-order-app/assets/back4.jpg": "2d3f786549a37445d53d949b742458234b80c7c3",
+    "/bitcoin-order-app/assets/back5.jpg": "3331c93fd153a1e88ae77a9445150dd780be1a62",
+    "/bitcoin-order-app/assets/back6.jpg": "bb1d88aec46a62d77cf358868f406f68399e7b8f",
+    "/bitcoin-order-app/assets/background.jpg": "2a7694fdf75ce8d74e449d6e806d3ec7ea1e9e6b",
+    "/bitcoin-order-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/bitcoin-order-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/bitcoin-order-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/bitcoin-order-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/bitcoin-order-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/bitcoin-order-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/bitcoin-order-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/bitcoin-order-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/bitcoin-order-app/assets/img/BCH.svg": "47c3dbf4b1059834f740ce1fad644ba50d88d899",
+    "/bitcoin-order-app/assets/pixel.gif": "87bb3a5dcd68684dee2e401dc8ed016eb6bea75f",
+    "/bitcoin-order-app/back6.fa641a3036560cae.jpg": "bb1d88aec46a62d77cf358868f406f68399e7b8f",
+    "/bitcoin-order-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/bitcoin-order-app/index.html": "a1b83ccddbf3c131389444dc98d9c7c6a3d79cd6",
+    "/bitcoin-order-app/main.ba550317c1e87e8c.js": "3dfe6457d91e4248fb20fd18a6ceef35ae46b622",
+    "/bitcoin-order-app/manifest.webmanifest": "da1eee6ec517d6398dc60e53058e5fec8304e10f",
+    "/bitcoin-order-app/polyfills.2d3f8bf28b00b833.js": "bb7eeb5281ecb8db11eb7123092f225011dcd626",
+    "/bitcoin-order-app/runtime.4451ca77b8feb09d.js": "bce565e0a929bd9f8788162ba411ba9750336104",
+    "/bitcoin-order-app/styles.9d358ab047341362.css": "9267b15bb0242ec07272f40ab745bbee839e9b4a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
